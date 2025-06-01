@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Holodniak</h1>
-<h3 align="center">Software Engineer | Backend | Fullstack | Microservices | Clean Architecture</h3>
+<h3 align="center">Software Engineer | Fullstack | Microservices | Clean Architecture</h3>
 
 ---
 
