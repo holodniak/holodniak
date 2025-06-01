@@ -31,16 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=holodniak&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holodniak&layout=compact&theme=transparent&hide_title=true)
-
-</div>
-
----
-
 ### 📫 How to reach me
 
 <div align="center">
