@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 About me
-- 🚀 I work as a **Software Engineer and Fullstack Developer** with a focus on backend development.
+- 🚀 I work as a **Senior Software Engineer and Fullstack Developer** with a focus on backend development.
 - 🏗️ I have experience building web systems (**BFFs, microservices**), data crawlers, and mobile apps.
 - 🌍 Skilled in **Node.js, TypeScript, JavaScript, Python, Flutter**, and modern cloud-based architectures.
 - 🔥 I’ve contributed to the **maintenance and scalability of large-scale production systems**, ensuring reliability and performance.
